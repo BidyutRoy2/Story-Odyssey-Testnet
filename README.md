@@ -1,4 +1,4 @@
-# Chainbase Network Testnet Transaction & Contracts Deploy Bot by HiddenGem
+# Story Odyssey Testnet Transaction & Contracts Deploy Bot by HiddenGem
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wellcome+To+HiddenGem)](https://git.io/typing-svg)
 
@@ -17,12 +17,12 @@
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/BidyutRoy2/Chainbase-Testnet.git
+git clone https://github.com/BidyutRoy2/Story-Odyssey-Testnet.git
 ```
 
 ### 3. Go To Bot Directory
 ```
-cd Chainbase-Testnet
+cd Story-Odyssey-Testnet
 cd Transaction-Bot
 ```
 
@@ -62,7 +62,7 @@ npm start
 
 ### 2. Go To Bot Directory
 ```
-cd Chainbase-Testnet
+cd Story-Odyssey-Testnet
 cd Contracts-Deploy-Bot
 ```
 
