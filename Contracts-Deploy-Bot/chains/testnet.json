@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Story Odyssey Testnet",
+    "rpcUrl": "https://odyssey.storyrpc.io",
+    "chainId": "1516",
+    "symbol": "IP",
+    "explorer": "https://odyssey-testnet-explorer.storyscan.xyz"
+  },
+  {
+    "name": "Sepolia Testnet",
+    "rpcUrl": "https://rpc.sepolia.org",
+    "chainId": "11155111",
+    "symbol": "ETH",
+    "explorer": "https://sepolia.etherscan.io"
+  }
+]
