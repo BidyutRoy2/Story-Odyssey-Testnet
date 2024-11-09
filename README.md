@@ -7,6 +7,7 @@
 </p>
 
 ## Faucet : https://faucet.story.foundation
+## Mint Odyssey Badge : https://mint.story.foundation
 ## Ecyosystem : https://www.story.foundation/ecosystem
 
 ## 1. Daily Transaction Bot
