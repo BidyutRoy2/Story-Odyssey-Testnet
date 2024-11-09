@@ -6,6 +6,9 @@
 <img src='https://github.com/BidyutRoy2/BidyutRoy2/blob/main/Logo_BG.png' style="width:300px;height:300px;">
 </p>
 
+## Faucet : https://faucet.story.foundation
+## Ecyosystem : https://www.story.foundation/ecosystem
+
 ## 1. Daily Transaction Bot
 
 ### 1. Open [VsCode](https://code.visualstudio.com/download) OR [Github CodeSpace](https://github.com/codespaces)
